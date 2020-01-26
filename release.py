@@ -9,4 +9,5 @@ def make_release():
   zip_generator.main()
 
 if __name__ == '__main__':
-  make_release()
+  make_release(
+  0
